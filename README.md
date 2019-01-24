@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This sample project demonstrates how to use [FFmpeg](https://ffmpeg.org) for video frame parsing and to use the `MediaCodec` for hardware decoding. It will help to parse video frames and decode the raw video stream data from DJI Camera and output the [YUV](https://en.wikipedia.org/wiki/YUV) data. 
+This sample project demonstrates how to use [FFmpeg](https://ffmpeg.org) for video frame parsing and to use the `MediaCodec` for hardware decoding. It will help to parse video frames and decode the raw video stream data from DJI Camera and output the [YUV](https://en.wikipedia.org/wiki/YUV) data. It also describes how to use Fast CSV library to write output parameters in a csv file. Flight Controller Class is used to read Drone's co-ordinates and sensors data. 
 
 ## Java Files Explanation
 
