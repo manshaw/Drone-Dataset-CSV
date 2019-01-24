@@ -1,0 +1,2 @@
+# Referenced at E:\I.C.E\AndroidStudio\DroneDatasetCSV\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:54
+-keep class com.dji.videostreamdecodingsample.VideoDecodingApplication { <init>(...); }
